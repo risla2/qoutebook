@@ -1,6 +1,9 @@
 strength trough Struggle
 <<<<<<< HEAD
+<<<<<<< HEAD
 I liek blue
 =======
 I like blue - Jay Patel
+>>>>>>> personal_qoutes
+=======
 >>>>>>> personal_qoutes
