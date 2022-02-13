@@ -10,4 +10,8 @@ I like blue - Jay Patel
 >>>>>>> personal_qoutes
 =======
 Strength trough Struggle - Michael Choi
+<<<<<<< HEAD
+>>>>>>> personal_qoutes
+=======
+I like blue - Jay Patel
 >>>>>>> personal_qoutes
